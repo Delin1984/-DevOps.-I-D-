@@ -39,3 +39,8 @@
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 выполнения сборки.
+
+---
+<img width="1560" height="890" alt="image" src="https://github.com/user-attachments/assets/d40670bf-f3a0-44e4-911a-dee1a129a848" />
+<img width="846" height="585" alt="image" src="https://github.com/user-attachments/assets/192bbde7-ae0a-424c-af09-9d45209c39ae" />
+<img width="1755" height="1098" alt="image" src="https://github.com/user-attachments/assets/0f862b59-0561-4b69-8d49-08ef81023445" />
