@@ -9,6 +9,8 @@
 ---
 
 <img width="930" height="661" alt="image" src="https://github.com/user-attachments/assets/d5d4e3be-187d-4680-bf7b-96b2bae8829f" />
+<img width="1185" height="232" alt="image" src="https://github.com/user-attachments/assets/55ee8536-36fc-43bd-853c-75b638f75e0f" />
+
 ---
 Задание 2
 Что нужно сделать:
